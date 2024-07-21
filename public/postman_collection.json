@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "3b480795-8111-4b60-8494-39b756e9cbcd",
+		"name": "indian-pincode-api-free",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22586811"
+	},
+	"item": [
+		{
+			"name": "https://indian-pincode-api.onrender.com/api/pincodes/getByPincode",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"pincode\":110001\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://indian-pincode-api.onrender.com/api/pincodes/getByPincode",
+					"protocol": "https",
+					"host": [
+						"indian-pincode-api",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"api",
+						"pincodes",
+						"getByPincode"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
