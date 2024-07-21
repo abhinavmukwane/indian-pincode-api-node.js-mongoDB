@@ -10,7 +10,7 @@ You can access the live project here: [Indian Pincode API](https://indian-pincod
 ## Prerequisites
 
 - Node.js installed on your machine
-- MongoDB database with a collection of pincodes
+- MongoDB database with a collection of pincodes (you can add using insertdata.js)
 
 ## Installation
 
