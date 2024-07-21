@@ -1,6 +1,6 @@
 # Indian Pincode API
 
-This is a simple Node.js API that allows you to retrieve information about Indian pincodes, cities, and states from a MongoDB database usign Node.js API.
+This is a simple Node.js API that allows you to retrieve information about Indian pincodes, cities, and states from a MongoDB database.
 
 ## Live Project
 
